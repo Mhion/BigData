@@ -1,5 +1,5 @@
 import pandas as pd
-import tkinter as tk
+import tkinter as tkgi
 import tglearn
 
 
